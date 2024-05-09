@@ -1,25 +1,25 @@
 subcategory_id,subcategory
-subcat1,photography books
-subcat2,mobile games
-subcat3,metal
-subcat4,nonfiction
-subcat5,television
-subcat6,audio
-subcat7,documentary
-subcat8,shorts
-subcat9,rock
-subcat10,fiction
-subcat11,indie rock
+subcat1,documentary
+subcat2,video games
+subcat3,indie rock
+subcat4,animation
+subcat5,metal
+subcat6,photography books
+subcat7,rock
+subcat8,web
+subcat9,translations
+subcat10,audio
+subcat11,mobile games
 subcat12,science fiction
-subcat13,world music
-subcat14,animation
-subcat15,web
-subcat16,drama
-subcat17,plays
-subcat18,wearables
-subcat19,translations
-subcat20,electric music
+subcat13,television
+subcat14,wearables
+subcat15,fiction
+subcat16,radio & podcasts
+subcat17,drama
+subcat18,jazz
+subcat19,shorts
+subcat20,world music
 subcat21,food trucks
-subcat22,jazz
-subcat23,video games
-subcat24,radio & podcasts
+subcat22,nonfiction
+subcat23,electric music
+subcat24,plays
