@@ -12,6 +12,8 @@ First we extract raw crowdfunding data from csv files and make four DataFrames.
 
 3. Contact
 
+![contact dataframe](https://github.com/Moburu/Crowdfunding_ETL/blob/main/Images/contact_df.PNG?raw=true)
+
 4. Campaign
 
 ![campaign dataframe pt1](https://github.com/Moburu/Crowdfunding_ETL/blob/main/Images/campaign_df_part_one.PNG?raw=true)
