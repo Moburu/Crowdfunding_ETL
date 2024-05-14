@@ -22,7 +22,7 @@ Finally, for the largest DataFrame, which contains information about all of the 
 Then we created an ERD to describe the relationships between these dataframes:
 ![crowdfunding erc](https://github.com/Moburu/Crowdfunding_ETL/blob/main/Images/crowdfunding-erd.png?raw=true)
 
-Finally, we created tables for each of these DataFrames in PostgreSQL using a schema based on our ERD, and imported data from the CSV files we created with Pandas.
+Finally, we created tables for each of these DataFrames in PostgreSQL using a schema based on our ERD, and imported data from the CSV files we created with Pandas. We needed to upload category, subcategory, contact, and finally campaign, so that all of the requisite foreign keys were present when the campaign table was filled out.
 
 1. Category
 
